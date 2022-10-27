@@ -1,6 +1,7 @@
 # Three-Bottles-Problem
 The Three Bottles Problem is solved here using AI in Python
 
+
 PROBLEM REPRESENTATION
 
 The given problem is known as the “Three Bottles Problem.” This problem includes three bottles which 
